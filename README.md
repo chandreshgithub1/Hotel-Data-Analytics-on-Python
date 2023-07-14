@@ -1,6 +1,6 @@
-# Hotel Data Analytics | Domain: Hospitality | [Link to Presentation]()
+# Hotel Data Analytics | Domain: Hospitality | [Link to Presentation](Paste your link here)
 
-## Hospitality Domain Data Analysis Project: [_(Click Here for Codes)_]()
+## Hospitality Domain Data Analysis Project: [_(Click Here for Codes)_](Paste your link here)
 
 1. Domain knowledge acquisition for better data analysis and interpretation within the hotel industry context. 
 
