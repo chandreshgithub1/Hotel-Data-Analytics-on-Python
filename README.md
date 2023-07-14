@@ -1,6 +1,6 @@
-# Hotel Data Analytics | Domain: Hospitality | [Link to Presentation](https://codebasics.io/challenge/codebasics-resume-project-challenge)
+# Hotel Data Analytics | Domain: Hospitality | [Link to Presentation]()
 
-## Hospitality Domain Data Analysis Project: [_(Click Here for Codes)_](https://github.com/chandreshgithub1/Hotel-Data-Analytics-on-Python/blob/main/Atliq%20Hotel%20Data%20Analysis.ipynb)
+## Hospitality Domain Data Analysis Project: [_(Click Here for Codes)_]()
 
 1. Domain knowledge acquisition for better data analysis and interpretation within the hotel industry context. 
 
